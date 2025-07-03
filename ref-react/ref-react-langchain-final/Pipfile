@@ -5,14 +5,10 @@ name = "pypi"
 
 [packages]
 langchain = "*"
-langchain-openai = "*"
-langchain-community = "*"
-langchainhub = "*"
+openai = "*"
 black = "*"
 python-dotenv = "*"
-langchain-ollama = "*"
-flask = "*"
-langchain-pinecone = "*"
+langchain-openai = "*"
 
 [dev-packages]
 

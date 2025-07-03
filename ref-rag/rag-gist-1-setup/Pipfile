@@ -6,13 +6,10 @@ name = "pypi"
 [packages]
 langchain = "*"
 langchain-openai = "*"
-langchain-community = "*"
+langchain-pinecone = "*"
+python-dotenv = "*"
 langchainhub = "*"
 black = "*"
-python-dotenv = "*"
-langchain-ollama = "*"
-flask = "*"
-langchain-pinecone = "*"
 
 [dev-packages]
 
